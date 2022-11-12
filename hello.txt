@@ -13,3 +13,4 @@ hello git master test
 hello git hot-fix test
  I changed the code
  linghuchong come!
+test .ssh 免密登录
